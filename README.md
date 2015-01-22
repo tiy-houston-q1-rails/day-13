@@ -5,7 +5,7 @@ Quiz 1:
 -------
 
 1. Take the gettysburg.txt and create an HTML view on [codepen](http://codepen.io)
-2. It should look nice, use a [Google Font](http://fonts.google.com)
+2. It should look nice, use a [Google Font](https://www.google.com/fonts)
 3. Make use of `blockquote` for your favorite sentance.
 4. Add an image of Lincoln:
 
