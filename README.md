@@ -20,8 +20,14 @@ Today:
 1. Image cover
 1. tinted color
 
-Quiz 2:
---------
 
-1. Take the CSS Zengarden HTML/CSS
-2. Make pretty
+Notes:
+----------
+
+* [Overlay Tint](http://codepen.io/jwo/pen/vdlKf?editors=110)
+* [Gettysbootstrap](http://codepen.io/jwo/pen/mywyXG)
+
+About Bootstrap
+
+* [Tutorial on Sitepoint](http://www.sitepoint.com/understanding-twitter-bootstrap-3/)
+* [Responsive Bootstrap Tutorial](https://www.youtube.com/watch?v=YXVoqJEwqoQ)
